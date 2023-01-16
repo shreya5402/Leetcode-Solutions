@@ -1,7 +1,4 @@
 //Brute force approach using O(N^2) Complexity:
-
-#include bits/stdc++.h
-using namespace std;
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
